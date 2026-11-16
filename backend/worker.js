@@ -85,7 +85,9 @@ export default {async fetch(request,env){
  if(pm&&method==='PUT'){
   if(!await priv())return error('Требуется авторизация',401);
   const p=await readBody(request,30000),id=Number(pm[1]);if(id<1||id>100000||String(p.name||'').length>220||String(p.brand||'').length>160)return error('Некорректные данные');
-  const clean={id,brand:String(p.brand||'').slice(0,160),name:String(p.name||'').slice(0,220),title:String(p.title||'').slice(0,350),tagline:String(p.tagline||'').slice(0,500),description:String(p.description||'').slice(0,16000),notes:{top:String(p.notes?.top||'').slice(0,3000),middle:String(p.notes?.middle||'').slice(0,3000),base:String(p.notes?.base||'').slice(0,3000),other:String(p.notes?.other||'').slice(0,3000)},available:!!p.available,hit:!!p.hit,new:!!p.new,placeholder:false,image:p.image&&String(p.image).length<500?String(p.image):null};
+  const existingGender=(await env.LAV_KV.get('product:'+id,'json'))?.gender;
+  const gender=['female','male','unisex'].includes(p.gender)?p.gender:(['female','male','unisex'].includes(existingGender)?existingGender:undefined);
+  const clean={id,gender,brand:String(p.brand||'').slice(0,160),name:String(p.name||'').slice(0,220),title:String(p.title||'').slice(0,350),tagline:String(p.tagline||'').slice(0,500),description:String(p.description||'').slice(0,16000),notes:{top:String(p.notes?.top||'').slice(0,3000),middle:String(p.notes?.middle||'').slice(0,3000),base:String(p.notes?.base||'').slice(0,3000),other:String(p.notes?.other||'').slice(0,3000)},available:!!p.available,hit:!!p.hit,new:!!p.new,placeholder:false,image:p.image&&String(p.image).length<500?String(p.image):null};
   for(const k of ['price3','price5','price10','priceFull'])clean[k]=p[k]==null||p[k]===''?null:(Number.isFinite(Number(p[k]))&&Number(p[k])>=0&&Number(p[k])<=10000000?Number(p[k]):null);
   await env.LAV_KV.put('product:'+id,JSON.stringify(clean));return json({ok:true});
  }

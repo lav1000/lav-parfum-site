@@ -1,0 +1,7 @@
+/* Lav Parfum - gender collections, V36 */
+.lav-gender-filters{display:flex;flex-wrap:wrap;gap:10px;align-items:center;flex:1 0 100%;width:100%;margin:0 0 12px}
+.lav-gender-filters .filter-chip{white-space:nowrap;min-height:40px;padding-inline:18px}
+.lav-gender-editor{margin:10px 0 18px}
+.lav-gender-editor select{display:block;width:100%;min-height:48px;margin-top:8px;border:1px solid #c6b0ab;background:#fffaf7;color:#392d2d;border-radius:7px;padding:10px 14px;font:inherit}
+.lav-gender-editor small{display:block;margin-top:8px;color:#6e5c5c;font-size:12px}
+@media(max-width:640px){.lav-gender-filters{gap:7px;margin-bottom:14px}.lav-gender-filters .filter-chip{font-size:12px;padding:10px 14px;min-height:40px}}

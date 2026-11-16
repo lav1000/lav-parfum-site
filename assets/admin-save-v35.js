@@ -46,11 +46,12 @@
       showStatus('Начинаю сохранение товара. Проверяю подключение...');
       const fd=new FormData(form);
       const id=Number(text(fd,'id'));
-      const brand=text(fd,'brand'),name=text(fd,'name');
+      const brand=text(fd,'brand'),name=text(fd,'name'),gender=text(fd,'gender');
       if(!Number.isInteger(id)||id<1)throw Error('Не найден номер товара.');
       if(!brand||!name)throw Error('Заполни бренд и название аромата.');
+      if(!['female','male','unisex'].includes(gender))throw Error('Выбери категорию аромата: женский, мужской или унисекс.');
       const update={
-        id,brand,name,title:brand+' '+name,
+        id,brand,name,gender,title:brand+' '+name,
         tagline:text(fd,'tagline'),description:text(fd,'description'),
         price3:price(fd,'price3'),price5:price(fd,'price5'),
         price10:price(fd,'price10'),priceFull:price(fd,'priceFull'),
@@ -103,10 +104,10 @@
         if(!check.ok)throw Error('Worker принял изменение, но проверка каталога вернула HTTP '+check.status);
         const listing=await check.json();
         stored=(Array.isArray(listing)?listing:listing.products||[]).find(p=>Number(p.id)===id)||null;
-        if(stored&&['price3','price5','price10','priceFull','image'].every(key=>(stored[key]??null)===(update[key]??null)))break;
+        if(stored&&['price3','price5','price10','priceFull','image','gender'].every(key=>(stored[key]??null)===(update[key]??null)))break;
         stored=null;
       }
-      if(!stored)throw Error('Worker ответил об успехе, но новые цены пока не видны в KV. Проверь, не кешируется ли API; запись товара №'+id+' должна появиться в KV Pairs.');
+      if(!stored)throw Error('Worker ответил об успехе, но цены или категория пока не видны в KV. Проверь, не кешируется ли API; запись товара №'+id+' должна появиться в KV Pairs.');
       const row=document.querySelector('[data-admin-edit="'+id+'"]')?.closest('tr');
       if(row){let cells=row.querySelectorAll('td');if(cells.length>=6){cells[3].textContent=stored.price3??'—';cells[4].textContent=stored.price5??'—';cells[5].textContent=stored.price10??'—';}}
       if(photo)$('#product-photo-file',form).value='';

@@ -20,7 +20,8 @@
     "hit": true,
     "new": false,
     "image": "assets/products/001.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "unisex"
   },
   {
     "id": 2,
@@ -43,7 +44,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/002.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "unisex"
   },
   {
     "id": 3,
@@ -66,7 +68,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/003.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "unisex"
   },
   {
     "id": 4,
@@ -89,7 +92,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/004.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "male"
   },
   {
     "id": 5,
@@ -113,7 +117,8 @@
     "new": false,
     "image": "assets/products/005.webp",
     "placeholder": false,
-    "photo_reference_source": "https://www.sephora.fr/on/demandware.static/-/Sites-masterCatalog_Sephora/default/dwc93ad94a/images/hi-res/SKU/SKU_2248/519488_swatch.jpg"
+    "photo_reference_source": "https://www.sephora.fr/on/demandware.static/-/Sites-masterCatalog_Sephora/default/dwc93ad94a/images/hi-res/SKU/SKU_2248/519488_swatch.jpg",
+    "gender": "unisex"
   },
   {
     "id": 6,
@@ -136,7 +141,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/006.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "unisex"
   },
   {
     "id": 7,
@@ -159,7 +165,8 @@
     "hit": true,
     "new": false,
     "image": "assets/products/007.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "male"
   },
   {
     "id": 8,
@@ -182,7 +189,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/008.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "unisex"
   },
   {
     "id": 9,
@@ -205,7 +213,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/009.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "female"
   },
   {
     "id": 10,
@@ -228,7 +237,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/010.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "unisex"
   },
   {
     "id": 11,
@@ -251,7 +261,8 @@
     "hit": true,
     "new": false,
     "image": "assets/products/011.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "unisex"
   },
   {
     "id": 12,
@@ -274,7 +285,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/012.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "male"
   },
   {
     "id": 13,
@@ -297,7 +309,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/013.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "female"
   },
   {
     "id": 14,
@@ -320,7 +333,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/014.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "unisex"
   },
   {
     "id": 15,
@@ -343,7 +357,8 @@
     "hit": true,
     "new": false,
     "image": "assets/products/015.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "male"
   },
   {
     "id": 16,
@@ -366,7 +381,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/016.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "unisex"
   },
   {
     "id": 17,
@@ -389,7 +405,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/017.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "male"
   },
   {
     "id": 19,
@@ -412,7 +429,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/019.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "unisex"
   },
   {
     "id": 20,
@@ -435,7 +453,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/020.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "unisex"
   },
   {
     "id": 21,
@@ -458,7 +477,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/021.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "unisex"
   },
   {
     "id": 22,
@@ -481,7 +501,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/022.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "unisex"
   },
   {
     "id": 23,
@@ -504,7 +525,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/023.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "unisex"
   },
   {
     "id": 24,
@@ -527,7 +549,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/024.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "unisex"
   },
   {
     "id": 25,
@@ -550,7 +573,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/025.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "unisex"
   },
   {
     "id": 26,
@@ -574,7 +598,8 @@
     "new": false,
     "image": "assets/products/026.webp",
     "placeholder": false,
-    "photo_reference_source": "https://parfbar.com/products/mancera-instant-crush.webp"
+    "photo_reference_source": "https://parfbar.com/products/mancera-instant-crush.webp",
+    "gender": "unisex"
   },
   {
     "id": 27,
@@ -597,7 +622,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/027.webp?v=27",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "unisex"
   },
   {
     "id": 28,
@@ -620,7 +646,8 @@
     "hit": true,
     "new": false,
     "image": "assets/products/028.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "female"
   },
   {
     "id": 29,
@@ -643,7 +670,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/029.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "unisex"
   },
   {
     "id": 30,
@@ -666,7 +694,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/030.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "unisex"
   },
   {
     "id": 31,
@@ -690,7 +719,8 @@
     "new": false,
     "image": "assets/products/031.webp",
     "placeholder": false,
-    "photo_reference_source": "https://khrishaperfumery.com.au/cdn/shop/files/marc-antoine-barrois-ganymede-edp-100ml-pos1.webp?v=1780813460&width=1080"
+    "photo_reference_source": "https://khrishaperfumery.com.au/cdn/shop/files/marc-antoine-barrois-ganymede-edp-100ml-pos1.webp?v=1780813460&width=1080",
+    "gender": "unisex"
   },
   {
     "id": 32,
@@ -713,7 +743,8 @@
     "hit": false,
     "new": false,
     "image": "https://theparfums.com/cdn/shop/files/FLEUR_DU_MAL.png?v=1768533705&width=1445",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "unisex"
   },
   {
     "id": 33,
@@ -736,7 +767,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/033.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "female"
   },
   {
     "id": 34,
@@ -759,7 +791,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/034.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "male"
   },
   {
     "id": 35,
@@ -782,7 +815,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/035.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "unisex"
   },
   {
     "id": 36,
@@ -805,7 +839,8 @@
     "hit": true,
     "new": false,
     "image": "assets/products/036.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "unisex"
   },
   {
     "id": 37,
@@ -828,7 +863,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/037.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "male"
   },
   {
     "id": 38,
@@ -851,7 +887,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/038.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "female"
   },
   {
     "id": 39,
@@ -874,7 +911,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/039.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "male"
   },
   {
     "id": 40,
@@ -897,7 +935,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/040.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "unisex"
   },
   {
     "id": 41,
@@ -921,7 +960,8 @@
     "new": false,
     "image": "assets/products/041.webp",
     "placeholder": false,
-    "photo_reference_source": "https://cdn.timestore.cz/images/w700/8907-1.webp?v=1763678487"
+    "photo_reference_source": "https://cdn.timestore.cz/images/w700/8907-1.webp?v=1763678487",
+    "gender": "unisex"
   },
   {
     "id": 42,
@@ -944,7 +984,8 @@
     "hit": false,
     "new": false,
     "image": null,
-    "placeholder": true
+    "placeholder": true,
+    "gender": null
   },
   {
     "id": 43,
@@ -967,7 +1008,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/043.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "male"
   },
   {
     "id": 44,
@@ -991,7 +1033,8 @@
     "new": false,
     "image": "assets/products/044.webp",
     "placeholder": false,
-    "photo_reference_source": "https://fumeimg-21439.kxcdn.com/fumeimg/186272/8b468ec55c94e28531274819bc738fc8/detailsc/naxos-edp-100ml_1.jpg"
+    "photo_reference_source": "https://fumeimg-21439.kxcdn.com/fumeimg/186272/8b468ec55c94e28531274819bc738fc8/detailsc/naxos-edp-100ml_1.jpg",
+    "gender": "male"
   },
   {
     "id": 45,
@@ -1014,7 +1057,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/045.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "female"
   },
   {
     "id": 46,
@@ -1037,7 +1081,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/046.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "female"
   },
   {
     "id": 47,
@@ -1060,7 +1105,8 @@
     "hit": false,
     "new": false,
     "image": null,
-    "placeholder": true
+    "placeholder": true,
+    "gender": null
   },
   {
     "id": 48,
@@ -1083,7 +1129,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/048.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "unisex"
   },
   {
     "id": 49,
@@ -1106,7 +1153,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/049.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "unisex"
   },
   {
     "id": 50,
@@ -1129,7 +1177,8 @@
     "hit": false,
     "new": false,
     "image": "https://i5.walmartimages.com/asr/73ca95a6-0238-4069-bf65-90823930e85c.f9bc945d86b7d008ed802c87239ef033.jpeg?odnBg=FFFFFF&odnHeight=768&odnWidth=768",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "unisex"
   },
   {
     "id": 51,
@@ -1152,7 +1201,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/051.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "unisex"
   },
   {
     "id": 52,
@@ -1175,7 +1225,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/052.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "unisex"
   },
   {
     "id": 53,
@@ -1198,7 +1249,8 @@
     "hit": false,
     "new": false,
     "image": "https://www.faces.sa/dw/image/v2/BJSM_PRD/on/demandware.static/-/Sites-faces-master-catalog/default/dwb2f9255f/images/PM_NISHANE_hacivat_eau_de_parfum_1.jpg?sh=800&sw=800",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "unisex"
   },
   {
     "id": 54,
@@ -1221,7 +1273,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/054.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "unisex"
   },
   {
     "id": 55,
@@ -1244,7 +1297,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/055.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "unisex"
   },
   {
     "id": 56,
@@ -1267,7 +1321,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/056.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "unisex"
   },
   {
     "id": 57,
@@ -1290,7 +1345,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/057.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "unisex"
   },
   {
     "id": 58,
@@ -1313,7 +1369,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/058.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "female"
   },
   {
     "id": 59,
@@ -1336,7 +1393,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/059.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "unisex"
   },
   {
     "id": 60,
@@ -1359,7 +1417,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/060.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "unisex"
   },
   {
     "id": 61,
@@ -1382,7 +1441,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/061.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "unisex"
   },
   {
     "id": 62,
@@ -1405,7 +1465,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/062.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "unisex"
   },
   {
     "id": 63,
@@ -1428,7 +1489,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/063.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "unisex"
   },
   {
     "id": 64,
@@ -1451,7 +1513,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/064.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "unisex"
   },
   {
     "id": 65,
@@ -1474,7 +1537,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/065.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "unisex"
   },
   {
     "id": 66,
@@ -1497,7 +1561,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/066.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "female"
   },
   {
     "id": 67,
@@ -1520,7 +1585,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/067.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "unisex"
   },
   {
     "id": 68,
@@ -1543,7 +1609,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/068.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "unisex"
   },
   {
     "id": 69,
@@ -1566,7 +1633,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/069.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "female"
   },
   {
     "id": 70,
@@ -1589,7 +1657,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/070.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "unisex"
   },
   {
     "id": 71,
@@ -1612,7 +1681,8 @@
     "hit": true,
     "new": false,
     "image": "assets/products/071.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "unisex"
   },
   {
     "id": 72,
@@ -1635,7 +1705,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/072.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "unisex"
   },
   {
     "id": 73,
@@ -1658,7 +1729,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/073.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "female"
   },
   {
     "id": 74,
@@ -1681,7 +1753,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/074.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "unisex"
   },
   {
     "id": 75,
@@ -1704,7 +1777,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/075.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "unisex"
   },
   {
     "id": 76,
@@ -1727,7 +1801,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/076.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "unisex"
   },
   {
     "id": 77,
@@ -1750,7 +1825,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/077.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "unisex"
   },
   {
     "id": 78,
@@ -1773,7 +1849,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/078.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "unisex"
   },
   {
     "id": 79,
@@ -1796,7 +1873,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/079.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "unisex"
   },
   {
     "id": 80,
@@ -1819,7 +1897,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/080.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "female"
   },
   {
     "id": 81,
@@ -1842,7 +1921,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/081.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "unisex"
   },
   {
     "id": 82,
@@ -1865,7 +1945,8 @@
     "hit": true,
     "new": false,
     "image": "assets/products/082.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "female"
   },
   {
     "id": 83,
@@ -1888,7 +1969,8 @@
     "hit": false,
     "new": true,
     "image": "assets/products/083.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "female"
   },
   {
     "id": 84,
@@ -1911,7 +1993,8 @@
     "hit": false,
     "new": true,
     "image": "assets/products/084.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "unisex"
   },
   {
     "id": 85,
@@ -1934,7 +2017,8 @@
     "hit": false,
     "new": true,
     "image": "assets/products/085.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "female"
   },
   {
     "id": 86,
@@ -1957,7 +2041,8 @@
     "hit": false,
     "new": true,
     "image": "assets/products/086.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "unisex"
   },
   {
     "id": 87,
@@ -1980,7 +2065,8 @@
     "hit": false,
     "new": true,
     "image": "assets/products/087.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "unisex"
   },
   {
     "id": 88,
@@ -2003,7 +2089,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/088.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "female"
   },
   {
     "id": 89,
@@ -2026,7 +2113,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/089.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "unisex"
   },
   {
     "id": 90,
@@ -2049,7 +2137,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/090.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "unisex"
   },
   {
     "id": 91,
@@ -2072,7 +2161,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/091.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "female"
   },
   {
     "id": 92,
@@ -2095,7 +2185,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/092.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "unisex"
   },
   {
     "id": 93,
@@ -2118,7 +2209,8 @@
     "hit": false,
     "new": true,
     "image": "assets/products/093.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "unisex"
   },
   {
     "id": 94,
@@ -2141,7 +2233,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/094.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "male"
   },
   {
     "id": 95,
@@ -2164,7 +2257,8 @@
     "hit": false,
     "new": true,
     "image": "assets/products/095.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "female"
   },
   {
     "id": 96,
@@ -2187,7 +2281,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/096.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "unisex"
   },
   {
     "id": 97,
@@ -2210,7 +2305,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/097.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "unisex"
   },
   {
     "id": 98,
@@ -2233,7 +2329,8 @@
     "hit": false,
     "new": true,
     "image": "assets/products/098.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "unisex"
   },
   {
     "id": 99,
@@ -2256,7 +2353,8 @@
     "hit": false,
     "new": false,
     "image": "assets/products/099.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "unisex"
   },
   {
     "id": 100,
@@ -2279,7 +2377,8 @@
     "hit": false,
     "new": true,
     "image": "assets/products/100.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "female"
   },
   {
     "id": 101,
@@ -2303,7 +2402,8 @@
     "new": false,
     "image": "assets/products/101.webp",
     "placeholder": false,
-    "photo_reference_source": "https://www.guerlain.com/dw/image/v2/BDCZ_PRD/on/demandware.static/-/Sites-GSA_master_catalog/default/dwd551e7e1/primary_packshot_3/2023/Fragrances/MASCULINS/L_HOMME_IDEAL_EDP_100ml-226597.png?sh=900&sw=900"
+    "photo_reference_source": "https://www.guerlain.com/dw/image/v2/BDCZ_PRD/on/demandware.static/-/Sites-GSA_master_catalog/default/dwd551e7e1/primary_packshot_3/2023/Fragrances/MASCULINS/L_HOMME_IDEAL_EDP_100ml-226597.png?sh=900&sw=900",
+    "gender": "male"
   },
   {
     "id": 102,
@@ -2326,7 +2426,8 @@
     "hit": true,
     "new": false,
     "image": "assets/products/102.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "unisex"
   },
   {
     "id": 103,
@@ -2349,7 +2450,8 @@
     "hit": false,
     "new": true,
     "image": "assets/products/103.webp",
-    "placeholder": false
+    "placeholder": false,
+    "gender": "unisex"
   },
   {
     "id": 104,
@@ -2375,7 +2477,8 @@
     "placeholder": false,
     "source": "manufacturer_and_retailer_research",
     "noteSource": "https://www.valentino-beauty.us/anatomy-of-dreams/private-talk-parfum-MPL02356.html",
-    "noteSourceNote": "Официальная пирамида Valentino: указаны два разных экстракта имбиря в верхних нотах."
+    "noteSourceNote": "Официальная пирамида Valentino: указаны два разных экстракта имбиря в верхних нотах.",
+    "gender": "unisex"
   },
   {
     "id": 105,
@@ -2402,7 +2505,8 @@
     "source": "manufacturer_and_retailer_research",
     "photo_reference_source": "https://lukesscents.com/cdn/shop/files/Image158.jpg?v=1745667338",
     "noteSource": "https://www.guerlain.com/us/en-us/p/l%E2%80%99art-la-matiere-neroli-outrenoir-eau-de-parfum-P017910.html",
-    "noteSourceNote": "Guerlain подтверждает четыре ключевые ноты, но не публикует строгую трёхуровневую пирамиду. Основные ноты приведены вместе."
+    "noteSourceNote": "Guerlain подтверждает четыре ключевые ноты, но не публикует строгую трёхуровневую пирамиду. Основные ноты приведены вместе.",
+    "gender": "female"
   },
   {
     "id": 106,
@@ -2429,7 +2533,8 @@
     "source": "manufacturer_and_retailer_research",
     "photo_reference_source": "https://www.ingredients-store.com/data/images/a8/line-cr_sq_retina.1000x1600.shrink_only.q85.jpg",
     "noteSource": "https://amouage.com/en-eu/products/line-618",
-    "noteSourceNote": "Точная официальная пирамида Amouage."
+    "noteSourceNote": "Точная официальная пирамида Amouage.",
+    "gender": "unisex"
   },
   {
     "id": 107,
@@ -2455,7 +2560,8 @@
     "placeholder": false,
     "source": "manufacturer_and_retailer_research",
     "noteSource": "https://www.clivechristian.com/products/strange-heavens-out-of-the-blue",
-    "noteSourceNote": "Clive Christian перечисляет эти материалы в официальном описании."
+    "noteSourceNote": "Clive Christian перечисляет эти материалы в официальном описании.",
+    "gender": "unisex"
   },
   {
     "id": 108,
@@ -2482,7 +2588,8 @@
     "source": "manufacturer_and_retailer_research",
     "photo_reference_source": "https://www.sephora.com/productimages/sku/s2924538-main-zoom.jpg",
     "noteSource": "https://www.byredo.com/eu_en/p/bal-d-afrique-eau-de-parfum?sku=0065212491",
-    "noteSourceNote": "Точная официальная пирамида Byredo."
+    "noteSourceNote": "Точная официальная пирамида Byredo.",
+    "gender": "unisex"
   },
   {
     "id": 109,
@@ -2509,7 +2616,8 @@
     "source": "manufacturer_and_retailer_research",
     "photo_reference_source": "https://fragrancerevolutionboutique.co.uk/cdn/shop/files/01RICHARDMAISONDEPARFUMWhiteChocolaEaudeParfum.webp?v=1753468089&width=1946",
     "noteSource": "https://richardperfume.com/product/white-chocola/",
-    "noteSourceNote": "Официальная трёхступенчатая пирамида RICHARD White Chocola Eau de Parfum; не путать с White Chocola Extrait."
+    "noteSourceNote": "Официальная трёхступенчатая пирамида RICHARD White Chocola Eau de Parfum; не путать с White Chocola Extrait.",
+    "gender": "unisex"
   },
   {
     "id": 110,
@@ -2536,7 +2644,8 @@
     "source": "manufacturer_and_retailer_research",
     "photo_reference_source": "https://www.creedperfume.com.au/cdn/shop/files/AbsoluAventus50ml.png?v=1749012260",
     "noteSource": "https://www.creedfragrance.com/p/absolu-aventus/14926231/",
-    "noteSourceNote": "Ароматические материалы подтверждены описанием Creed. Разделение уровней основано на последовательности композиции, описанной брендом."
+    "noteSourceNote": "Ароматические материалы подтверждены описанием Creed. Разделение уровней основано на последовательности композиции, описанной брендом.",
+    "gender": "male"
   },
   {
     "id": 111,
@@ -2563,7 +2672,8 @@
     "source": "manufacturer_and_retailer_research",
     "photo_reference_source": "https://dam-be.srspa.it/dam-images/onpremise/ecommerce_large/PM100RESP_-_001_01.jpg",
     "noteSource": "https://www.stefanoricci.com/en-de/eau-de-parfum-royal-eagle-sport-50-ml/PM050RESP--.html",
-    "noteSourceNote": "Точная официальная пирамида Stefano Ricci."
+    "noteSourceNote": "Точная официальная пирамида Stefano Ricci.",
+    "gender": "male"
   },
   {
     "id": 112,
@@ -2590,7 +2700,8 @@
     "source": "manufacturer_and_retailer_research",
     "photo_reference_source": "https://us.parfums-de-marly.com/cdn/shop/files/LAYTON-EXCLUSIF-PERFUME-125-PACK11X1.png?v=1743177019&width=1445",
     "noteSource": "https://us.parfums-de-marly.com/pages/the-exclusifs",
-    "noteSourceNote": "Официальная пирамида Parfums de Marly для Layton Exclusif; старые ноты обновлены."
+    "noteSourceNote": "Официальная пирамида Parfums de Marly для Layton Exclusif; старые ноты обновлены.",
+    "gender": "unisex"
   },
   {
     "id": 113,
@@ -2617,7 +2728,8 @@
     "source": "manufacturer_and_retailer_research",
     "photo_reference_source": "https://frenchavenue.com/cdn/shop/files/3_36.jpg?v=1767962910&width=1206",
     "noteSource": "https://sa.frenchavenue.com/products/marmara",
-    "noteSourceNote": "Ноты - официальный French Avenue KSA; концентрация там названа EDP, а в присланном каталоге Extrait. До уточнения версии концентрацию не меняем."
+    "noteSourceNote": "Ноты - официальный French Avenue KSA; концентрация там названа EDP, а в присланном каталоге Extrait. До уточнения версии концентрацию не меняем.",
+    "gender": "unisex"
   },
   {
     "id": 114,
@@ -2644,7 +2756,8 @@
     "source": "manufacturer_and_retailer_research",
     "photo_reference_source": "https://cdn2.parfumdreams.de/image/product/96919-0-0-2.webp",
     "noteSourceNote": "Пирамида уточнена по официальному описанию Rosendo Mateu; в сердце повторно упоминается ландыш.",
-    "noteSource": "https://rosendomateu.com/producto/rosendo-mateu-5/"
+    "noteSource": "https://rosendomateu.com/producto/rosendo-mateu-5/",
+    "gender": "unisex"
   },
   {
     "id": 115,
@@ -2671,7 +2784,8 @@
     "source": "manufacturer_and_retailer_research",
     "photo_reference_source": "https://cremedelacreme.shop/cache/galleries/142-26267/ormonde-jayne-levant-edp-1-kvapusis-vanduo-edp-88-creme-de-la-creme.jpeg",
     "noteSource": "https://ormondejayne.com/en-de/products/levant",
-    "noteSourceNote": "Точная официальная пирамида Ormonde Jayne."
+    "noteSourceNote": "Точная официальная пирамида Ormonde Jayne.",
+    "gender": "unisex"
   },
   {
     "id": 116,
@@ -2698,7 +2812,8 @@
     "source": "manufacturer_and_retailer_research",
     "photo_reference_source": "https://losaromas.ee/image/catalog/products/ORMONDE%20JAYNE/Ormonde%20Jayne%20Champaca%20EDP.jpg",
     "noteSource": "https://ormondejayne.com/en-de/products/champaca-1",
-    "noteSourceNote": "Точная официальная пирамида Ormonde Jayne."
+    "noteSourceNote": "Точная официальная пирамида Ormonde Jayne.",
+    "gender": "unisex"
   },
   {
     "id": 117,
@@ -2725,7 +2840,8 @@
     "source": "manufacturer_and_retailer_research",
     "photo_reference_source": "https://karjistore.com/cdn/shop/files/escentric-molecules-molecule-01-clary-sage-edt-100ml-01.jpg?v=1788937087&width=2000",
     "noteSource": "https://www.escentric.com/en-us/products/molecule-01-clary-sage",
-    "noteSourceNote": "У производителя ровно два основных компонента, отдельную пирамиду не заявляют: не добавляем вымышленные ингредиенты."
+    "noteSourceNote": "У производителя ровно два основных компонента, отдельную пирамиду не заявляют: не добавляем вымышленные ингредиенты.",
+    "gender": "unisex"
   },
   {
     "id": 118,
@@ -2751,7 +2867,8 @@
     "placeholder": false,
     "source": "manufacturer_and_retailer_research",
     "noteSourceNote": "Официальная пирамида HFC Devil’s Intrigue.",
-    "noteSource": "https://www.hfcparis.com/catalog/devils-intrigue"
+    "noteSource": "https://www.hfcparis.com/catalog/devils-intrigue",
+    "gender": "unisex"
   },
   {
     "id": 119,
@@ -2778,7 +2895,8 @@
     "source": "manufacturer_and_retailer_research",
     "photo_reference_source": "https://static.wixstatic.com/media/e53f7d_1aebcc9cf6a842f296280acd951c04b2~mv2.jpg/v1/fit/w_500%2Ch_500%2Cq_90/file.jpg",
     "noteSource": "https://initioparfums.com/products/narcotic-delight",
-    "noteSourceNote": "INITIO официально указывает 7 основных нот БЕЗ разбивки верх/сердце/база. Сохраняем список без выдуманного деления."
+    "noteSourceNote": "INITIO официально указывает 7 основных нот БЕЗ разбивки верх/сердце/база. Сохраняем список без выдуманного деления.",
+    "gender": "unisex"
   },
   {
     "id": 120,
@@ -2805,7 +2923,8 @@
     "source": "manufacturer_and_retailer_research",
     "photo_reference_source": "https://poelmanparfums.nl/5996-medium_default/hermes-terre-dhermes-pure-perfum.jpg",
     "noteSource": "https://www.hermes.com/us/en/product/terre-d-hermes-parfum-V107758V0/",
-    "noteSourceNote": "Hermès подтверждает 3 основных материала, уровней пирамиды не публикует."
+    "noteSourceNote": "Hermès подтверждает 3 основных материала, уровней пирамиды не публикует.",
+    "gender": "male"
   },
   {
     "id": 121,
@@ -2832,7 +2951,8 @@
     "source": "manufacturer_and_retailer_research",
     "photo_reference_source": "https://scentrabbit.com/cdn/shop/files/jump-up-kiss-me.png?v=1781218133&width=1920",
     "noteSource": "https://www.clivechristian.com/products/jump-up-and-kiss-me-hedonistic",
-    "noteSourceNote": "По подробному описанию производителя, который выделяет основные ноты чай мате / табак / лабданум."
+    "noteSourceNote": "По подробному описанию производителя, который выделяет основные ноты чай мате / табак / лабданум.",
+    "gender": "unisex"
   },
   {
     "id": 122,
@@ -2859,7 +2979,8 @@
     "source": "manufacturer_and_retailer_research",
     "photo_reference_source": "https://cdn.shopify.com/s/files/1/0594/0360/0065/products/amouage-interlude-eau-de-parfum-para-hombre___30_1000x1000.jpg?v=1632946145",
     "noteSource": "https://amouage.com/en-uk/products/interlude-man-100ml",
-    "noteSourceNote": "Точная официальная пирамида Amouage."
+    "noteSourceNote": "Точная официальная пирамида Amouage.",
+    "gender": "male"
   },
   {
     "id": 123,
@@ -2886,7 +3007,8 @@
     "source": "manufacturer_and_retailer_research",
     "photo_reference_source": "https://douglas.bg/media/catalog/product/cache/01e1c0038a30504fa3f60f9f4d2db92d/1/-/1-f581a072e2710bfe7388b35b1c2ac5bb.jpg",
     "noteSource": "https://www.chopard.com/en-intl/haute-parfumerie/95201-0462.html",
-    "noteSourceNote": "Производитель подтверждает ПО ОДНОЙ ноте на ступень. Их нельзя искусственно увеличить до трёх."
+    "noteSourceNote": "Производитель подтверждает ПО ОДНОЙ ноте на ступень. Их нельзя искусственно увеличить до трёх.",
+    "gender": "female"
   },
   {
     "id": 124,
@@ -2913,6 +3035,7 @@
     "source": "manufacturer_and_retailer_research",
     "photo_reference_source": "https://www.eleganteprofumi.com/cdn/shop/files/BLANCHE2_5_11zon.webp?v=1754405200&width=1200",
     "noteSourceNote": "Официальная пирамида Les Liquides Imaginaires Blanche Bête.",
-    "noteSource": "https://eu.liquidesimaginaires.com/products/blanche-bete"
+    "noteSource": "https://eu.liquidesimaginaires.com/products/blanche-bete",
+    "gender": "unisex"
   }
 ]
